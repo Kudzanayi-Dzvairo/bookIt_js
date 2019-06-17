@@ -88,6 +88,13 @@ h6 {
 }
 /* end of globals */
 /* Navbar */
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 .navbar {
   position: fixed;
   top: 0;

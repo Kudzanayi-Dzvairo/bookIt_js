@@ -6,10 +6,11 @@ import { Link } from "react-router-dom";
 const Rooms = (children, hero) => {
   return (
     <Hero hero="roomsHero">
-      <Banner title="Our Rooms"></Banner>
+      <Banner title="our rooms">
       <Link to="/" className="btn-primary">
         Home
       </Link>
+      </Banner>
     </Hero>
   );
 };
