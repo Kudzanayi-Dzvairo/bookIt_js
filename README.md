@@ -2,8 +2,7 @@
 
 #### [Live Site](https://african-sceneries.netlify.app/)
 
-
-An application is used to display hotel rooms and allows users to filter rooms by multiple criterea. Built with React, Context API, React Router JavaScript, and hosted with Netlify.
+The main goal of this application is to display hotel rooms and allows users to filter rooms by multiple criterea. Built with React, Context API, React Router JavaScript, and hosted with Netlify.
 
 
 ## Project Screen Shots
